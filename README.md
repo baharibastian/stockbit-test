@@ -1,9 +1,9 @@
 ## How To Run
 ### Run HTTP & GRPC Server
-``
+```
 cd q2 
 go run cmd/main.go
-``
+```
 
 ### Run GRPC Client
 ```
